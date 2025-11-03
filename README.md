@@ -1,6 +1,6 @@
 # 🔤 Hangman – Fun ReactJS Game
 
-![Hangman Banner](https://raw.githubusercontent.com/Pragati2001/hangman/main/public/banner.png)
+![Hangman Banner](https://raw.githubusercontent.com/Pragati2001/hangman/main/hangman.png)
 
 ---
 
